@@ -1,5 +1,5 @@
 # Bash Toolkit
-This is a toolkit of Bash scripts that I have created to improve my productivity on Linux. The idea came about when I started studying LPIC1 examination materials. I wanted a practical way of studying concepts like piping and regex whilst improving my my over all knowledge in the CLI. 
+This is a toolkit of Bash scripts, I have created it to improve my productivity on Linux. The idea came about when I started studying LPIC1 examination materials. I wanted a practical way of studying concepts like piping and regex whilst improving my over all knowledge in the CLI. 
 
 
 <img src="./pictures/bashtoolkit.png" width="500">
